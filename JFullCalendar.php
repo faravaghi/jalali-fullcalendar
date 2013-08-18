@@ -67,7 +67,7 @@ class JFullCalendar extends CWidget
         $cs->registerScriptFile($assets.'/fullcalendar/fullcalendar.'.$ext);
         $cs->registerScriptFile($assets.'/fullcalendar/jquery-ui-1.8.23.custom.min.js');
         /* $cs->registerCssFile($assets.'/fullcalendar/fullcalendar.css'); */
-        $cs->registerCssFile($assets.'/fullcalendar/fullcalendar_gebo.css');
+        $cs->registerCssFile($assets.'/fullcalendar/fullcalendar_theme.css');
 
         if ($this->loadPrintCss) {
             $cs->registerCssFile($assets.'/fullcalendar/fullcalendar.print.css');
