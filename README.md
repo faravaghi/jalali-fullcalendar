@@ -3,7 +3,7 @@ jalali-fullcalendar
 
 Jalali FullCalendar
 
-Great JavaScript calendar converted to Yii extension.
+Great JavaScript calendar converted to Yii extension with [Full Calendar](http://arshaw.com/fullcalendar/).
 
 Example usage:
 ```php
