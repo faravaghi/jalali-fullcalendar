@@ -127,7 +127,7 @@ Date.prototype.setJalaliMonth = function(m, d) {
 	var gy = this.getFullYear();
 	var j = JalaliDate.gregorianToJalali(gy, gm+1, gd);
 	if (m > 11) {
-		j[0] += math.floor(m / 12);
+		j[0] += Math.floor(m / 12);
 		m = m % 12;
 	}
 	j[1] = m+1;
