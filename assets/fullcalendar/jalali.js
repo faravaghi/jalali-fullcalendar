@@ -130,6 +130,10 @@ Date.prototype.setJalaliMonth = function(m, d) {
 		j[0] += Math.floor(m / 12);
 		m = m % 12;
 	}
+	else if(m < 0){
+		j[0] = j[0] - 1;
+		m = 11;
+	}
 	j[1] = m+1;
 	if (d != undefined) j[2] = d;
 	var g = JalaliDate.jalaliToGregorian(j[0], j[1], j[2]);
