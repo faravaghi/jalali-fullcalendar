@@ -1,7 +1,9 @@
 jalali-fullcalendar
 ===================
 
-Jalali FullCalendar
+Jalali FullCalendar  
+
+[![Latest Stable Version](https://poser.pugx.org/faravaghi/jalali-fullcalendar/v/stable)](https://packagist.org/packages/faravaghi/jalali-fullcalendar) [![Total Downloads](https://poser.pugx.org/faravaghi/jalali-fullcalendar/downloads)](https://packagist.org/packages/faravaghi/jalali-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/faravaghi/jalali-fullcalendar/v/unstable)](https://packagist.org/packages/faravaghi/jalali-fullcalendar) [![License](https://poser.pugx.org/faravaghi/jalali-fullcalendar/license)](https://packagist.org/packages/faravaghi/jalali-fullcalendar)
 
 Great JavaScript calendar converted to Yii extension with [Full Calendar](http://arshaw.com/fullcalendar/).
 
