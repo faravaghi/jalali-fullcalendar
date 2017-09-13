@@ -1,0 +1,21 @@
+{
+    "name": "faravaghi/jalali-fullcalendar",
+    "description": "Bootstrap Date Picker for Yii1 Extension",
+    "type": "yii-extension",
+    "keywords": ["yii","extension","jalali","full calendar","persian calendar"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Mohammd Ebrahim Amini",
+            "email": "faravaghi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "faravaghi\\jalalifullcalendar\\": ""
+        }
+    }
+}
